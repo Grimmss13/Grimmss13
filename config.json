@@ -1,0 +1,9 @@
+{
+	"ip":"griimsmp.aternos.me",
+	"port": "24966",
+	"name": "grimmechbot13",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+} 
